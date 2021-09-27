@@ -1,4 +1,5 @@
 # Twitter-Friendship-Graph
 
-![](./images/graph1.png =100x20)
+![](graph1.png | width=100)
+
 
